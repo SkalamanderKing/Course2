@@ -1,4 +1,4 @@
-##Program YHJUST16 Module 2: HTML, CSS, Javascript & Webbstandarder, 
+##Program YHJUST16 Module 2: HTML, CSS, Javascript & Webbstandarder##
 YH-programmet JavaScriptutvecklare Frontend, Lernia Utbildning AB.
 
 #Innehåll
@@ -27,12 +27,9 @@ Designen på sidan är naiv med flit men kanske lite väl och färgerna är bjä
 :sunglasses:
 Även om sidan inte är supersnygg, det krävs nog en bättre konstnär för det, så fungerar den på alla skärmar jag testat inklusive min tv. Spelet fungerar överraskande bra på mobiler, åtminstone de jag testat. Främst har dock lärandet varit det bästa!
 
-
 Student: Fredrick Östlund.
 
 LinkedIn: https://se.linkedin.com/in/fredrick-östlund-6a99a2133
 
-=======
 # Course2
 Kurs 2 i programmet Javascript Frontendutvecklare
->>>>>>> 61286a3482f7055fd06f486fc36e82c657916cf4
