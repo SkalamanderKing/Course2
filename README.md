@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-##Skolprojekt – delkursen YHJUST16
+##Program YHJUST16 Module 2: HTML, CSS, Javascript & Webbstandarder, 
 YH-programmet JavaScriptutvecklare Frontend, Lernia Utbildning AB.
 
 #Innehåll
